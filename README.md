@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sahan2000" alt="sahan2000" /></a> </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nimnaks&label=Profile%20views&color=0e75b6&style=flat" alt="nimnaks" /> </p>
+
 - 🔭 I’m currently working on [My portfolio](https://github.com/Sahan2000/MyPortfolio.git)
 
 - 🌱 I’m currently learning **Java base Frame works and web development technologies liked java,html,CSS and JavaScript**
